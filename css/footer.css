@@ -1,0 +1,23 @@
+div.barraFooter {
+    background-color: #222222;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+ }
+
+ section.barraFooter1 {
+     color: #F3F3F3;
+     font-size: 1rem;
+     
+ }
+
+ section.barraFooter1 ul{
+     padding: 0.5rem;
+ }
+
+
+ section.barraFooter1 ul li {
+     padding: 0.3rem;
+ }

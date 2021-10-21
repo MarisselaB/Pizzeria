@@ -1,0 +1,33 @@
+div.barraNegra {
+    background-color: #222222;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem;
+    box-shadow: 10px 5px 5px gray;
+}
+
+div.barraNegra2 {
+    color: #F3F3F3;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    width: 40rem;
+}
+
+div.barraNegra2 nav {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+div.barraNegra2 nav ul {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+div.barraNegra2 nav ul li {
+    padding: 0.5rem 1.5rem; 
+}
